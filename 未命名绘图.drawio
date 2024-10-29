@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="_MKfQRyIquTa8IuMm22X">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkFIR7vfspcDQMpNZqrY-3" target="rkFIR7vfspcDQMpNZqrY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkFIR7vfspcDQMpNZqrY-3" target="rkFIR7vfspcDQMpNZqrY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkFIR7vfspcDQMpNZqrY-3" target="rkFIR7vfspcDQMpNZqrY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-3" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 16px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;思考问题&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-6" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 16px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;可以做什么&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkFIR7vfspcDQMpNZqrY-7" target="rkFIR7vfspcDQMpNZqrY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-7" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 16px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;以怎样的心态，怎样的姿态，怎样的方式助推教师？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-8" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 16px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;怎样慢下来支持和赋能教师？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkFIR7vfspcDQMpNZqrY-9" target="rkFIR7vfspcDQMpNZqrY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkFIR7vfspcDQMpNZqrY-9" target="rkFIR7vfspcDQMpNZqrY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkFIR7vfspcDQMpNZqrY-9" target="rkFIR7vfspcDQMpNZqrY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-9" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 16px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;思考的基础&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-10" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 16px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;基于本园教师现状&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="555" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-11" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 16px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;基于本园教师专业成长需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="555" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkFIR7vfspcDQMpNZqrY-12" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 16px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;基于对教师培养的深度思考&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="550" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
